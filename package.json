@@ -1,0 +1,29 @@
+{
+  "name": "batchful",
+  "version": "1.0.0",
+  "description": "Batch task runner thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beardon/batchful.git"
+  },
+  "keywords": [
+    "batch"
+  ],
+  "author": "Tyson Cleary <tyson@beardon.com> (https://github.com/tyscorp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beardon/batchful/issues"
+  },
+  "homepage": "https://github.com/beardon/batchful#readme",
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "lodash": "^4.11.1"
+  }
+}
